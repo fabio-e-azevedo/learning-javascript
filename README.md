@@ -1,1 +1,1 @@
-# learning-nodejs
+# learning-javascript with Node.js
